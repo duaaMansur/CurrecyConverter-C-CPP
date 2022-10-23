@@ -16,7 +16,7 @@ int main() {
 
     // Enter your conversion here
     printf("1. PKR to USD\n");
-    printf("2. USD to PKR");
+    printf("2. USD to PKR\n");
 
     printf("Enter the choice for conversion\n");
     scanf("%d", &choice);

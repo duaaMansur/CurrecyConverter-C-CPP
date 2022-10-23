@@ -2,7 +2,6 @@
 #include <iostream>
 
 #include "conversions.cpp"
-#include "conversion.c"
 using namespace std;
 
 // The code is a mixture of both c and c++ code to make is accesible to everyone
